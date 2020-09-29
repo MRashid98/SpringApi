@@ -1,13 +1,13 @@
-package com.qa.demo;
+package com.qa.springapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoapiApplication {
+public class SpringapiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoapiApplication.class, args);
+		SpringApplication.run(SpringapiApplication.class, args);
 	}
 
 }
